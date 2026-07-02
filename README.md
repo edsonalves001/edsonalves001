@@ -14,7 +14,7 @@ Me chamo Edson Alves Novais e sou um desenvolver back-end com 2 anos de estudos,
     </a>
     </p>
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens, Ferramentas e Tecnologias
 
 <img 
     align="left" 
@@ -84,7 +84,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
     alt="MongoDB" 
     title="MongoDb"
     width="30px" 
-    style="padding-right: 10px;" 	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"
+    style="padding-right: 10px;" 	
+	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"
+	/>
 <img 
     align="left" 
     alt="PHP" 
