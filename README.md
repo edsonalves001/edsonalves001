@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Edson Alves Novais e sou um desenvolver back-end com 2 anos de estudos. Em 2024 Conclui o Curso técnico de Informática Suporte na Escola Técnica de Praia Grande (ETEC PG), Atualmente, estou cursando Desenvolvimento de software multiplataforma na Faculdade de tecnologia de Praia Grande (FATEC PG). Descobri na tecnologia a paixão por solucionar problemas, o que me motiva a procurar mais formas de resolver problemas, buscando sempre aprender mais a cada dia. 
+Me chamo Edson Alves Novais e sou um desenvolvedor back-end com 2 anos de estudos. Em 2024 Conclui o Curso técnico de Informática Suporte na Escola Técnica de Praia Grande (ETEC PG), Atualmente, estou cursando Desenvolvimento de software multiplataforma na Faculdade de tecnologia de Praia Grande (FATEC PG). Descobri na tecnologia a paixão por solucionar problemas, o que me motiva a procurar mais formas de resolver problemas, buscando sempre aprender mais a cada dia. 
 
 ### 🤖 Linguagens, Ferramentas e Tecnologias
 
