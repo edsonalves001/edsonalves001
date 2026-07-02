@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Edson Alves Novais e sou um desenvolver back-end com 2 anos de estudos, durante esses 2 anos vim me desenvolvendo cada vez mais conhecimentos técnicos. Em 2024 Conclui o Curso técnico de Informática Suporte na Escola Técnica de Praia Grande (ETEC PG), Atualmente, estou cursando Desenvolvimento de software multiplataforma na Faculdade de tecnologia de Praia Grande (FATEC PG). Descobri na tecnologia a paixão por solucionar problemas, o que me motiva a procurar mais formas de resolver problemas, buscando sempre aprender mais a cada dia. 
+Me chamo Edson Alves Novais e sou um desenvolver back-end com 2 anos de estudos, durante esses 2 anos vim desenvolvendo cada vez mais conhecimentos técnicos. Em 2024 Conclui o Curso técnico de Informática Suporte na Escola Técnica de Praia Grande (ETEC PG), Atualmente, estou cursando Desenvolvimento de software multiplataforma na Faculdade de tecnologia de Praia Grande (FATEC PG). Descobri na tecnologia a paixão por solucionar problemas, o que me motiva a procurar mais formas de resolver problemas, buscando sempre aprender mais a cada dia. 
 
 <p align="start">
     <a href="https://github.com/edsonalves001?tab=repositories&sort=stargazers">
@@ -165,5 +165,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsonalves001&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  </p>
 
 </p>
