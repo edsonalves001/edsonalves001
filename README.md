@@ -4,16 +4,6 @@
 
 Me chamo Edson Alves Novais e sou um desenvolver back-end com 2 anos de estudos, durante esses 2 anos vim desenvolvendo cada vez mais conhecimentos técnicos. Em 2024 Conclui o Curso técnico de Informática Suporte na Escola Técnica de Praia Grande (ETEC PG), Atualmente, estou cursando Desenvolvimento de software multiplataforma na Faculdade de tecnologia de Praia Grande (FATEC PG). Descobri na tecnologia a paixão por solucionar problemas, o que me motiva a procurar mais formas de resolver problemas, buscando sempre aprender mais a cada dia. 
 
-<p align="start">
-    <a href="https://github.com/edsonalves001?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    </p>
-
 ### 🤖 Linguagens, Ferramentas e Tecnologias
 
 <img 
@@ -28,7 +18,7 @@ Me chamo Edson Alves Novais e sou um desenvolver back-end com 2 anos de estudos,
     align="left" 
     alt="SpringBoot" 
     title="SpringBoot"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"          
 />
@@ -36,7 +26,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
     align="left" 
     alt="SQL" 
     title="SQL"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
 />
@@ -44,7 +34,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
     align="left" 
     alt="Redis"
     title="Redis" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
 />
@@ -52,7 +42,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
     align="left" 
     alt="PostgreSQL"
     title="PostgreSQL" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
@@ -60,7 +50,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
     align="left" 
     alt="Trello" 
     title="Trello"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg"
 />
@@ -68,14 +58,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
     align="left" 
     alt="Vscode"
     title="Vscode" 
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img 
     align="left" 
     alt="MySQL" 
     title="MySql"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
           
@@ -83,7 +73,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
     align="left" 
     alt="MongoDB" 
     title="MongoDb"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 	
 	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg"
 	/>
@@ -91,7 +81,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
     align="left" 
     alt="PHP" 
     title="PHP"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
@@ -99,14 +89,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
     align="left" 
     alt="Intellij" 
     title="Intellij"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 	src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 
 <img 
     align="left" 
     alt="Django" 
     title="Django"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
 />
@@ -115,7 +105,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -123,7 +113,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -132,7 +122,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
     align="left" 
     alt="C#" 
     title="C#"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
@@ -141,7 +131,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-ori
     align="left" 
     alt="C++" 
     title="C++"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"
 />
 
