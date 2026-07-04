@@ -1,5 +1,4 @@
-🎓 Estudante de Desenvolvimento de Software Multiplataforma Pela Faculdade de Tecnologia de Praia Grande (Fatec PG)
-🖥️ Java | APIs REST | Banco de Dados | Arquitetura de Sistemas  
+**`🎓 Estudante de Desenvolvimento de Software Multiplataforma Pela Faculdade de Tecnologia de Praia Grande (Fatec PG)`**
 
 **`Desenvolvedor Back-End`**
 ---
