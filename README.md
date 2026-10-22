@@ -14,7 +14,7 @@ Me chamo Edson Alves Novais e sou um desenvolvedor back-end com 2 anos de estudo
 Busco uma oportunidade de estágio para aplicar e evoluir minhas habilidades no desenvolvimento de sistemas reais.
 
 ---
-### 🤖 Linguagens, Ferramentas e Tecnologias
+### 🤖 Linguagens, Bancos de dados e Framework que mais utilizo
 
 <img 
     align="left" 
@@ -24,6 +24,16 @@ Busco uma oportunidade de estágio para aplicar e evoluir minhas habilidades no 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="SQL" 
@@ -51,11 +61,11 @@ Busco uma oportunidade de estágio para aplicar e evoluir minhas habilidades no 
 
 <img 
     align="left" 
-    alt="C++" 
-    title="C++"
+    alt="Spring Boot"
+    title="Spring Boot" 
     width="40px" 
-    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
-
 <br/>
 <br/>
